@@ -5,6 +5,6 @@ public class Test1 {
         for (int i = 0; i < 100; i++) {
             System.out.println("I love java");
         }
-
+        System.out.println("我是修改后的idea工程");
     }
 }
