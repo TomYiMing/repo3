@@ -6,5 +6,6 @@ public class Test1 {
             System.out.println("I love java");
         }
         System.out.println("我是dev中的分支");
+        System.out.println("我是第二次");
     }
 }
